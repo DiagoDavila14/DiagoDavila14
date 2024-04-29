@@ -23,8 +23,12 @@ I'm a student of Information Systems Development. I am learning more about Progr
 <br>
 [![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23512BD4&labelColor=black)]()
 [![Static Badge](https://img.shields.io/badge/Rust-%23181717?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)]()
+
 ## **My Tools**
 [![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC&labelColor=black)]()
 [![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black)]()
 [![Static Badge](https://img.shields.io/badge/Windows%2010-%230078D6?style=for-the-badge&logo=windows%2010&logoColor=%230078D6&labelColor=black)]()
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/DiagoDavila14)
+
+## **Contact**
+[![Static Badge](https://img.shields.io/badge/diaguito.14.30%40gmail.com-Mensaje%20Personal-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=black)](mailto:diaguito.14.30@gmail.com)
