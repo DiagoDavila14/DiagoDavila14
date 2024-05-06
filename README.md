@@ -9,8 +9,9 @@ I'm a student of Information Systems Development. I am learning more about Progr
 [![Static Badge](https://img.shields.io/badge/Php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)](https://github.com/DiagoDavila14)
-### *Coming soon*
+<br>
 [![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=%235FA04E&labelColor=black)](https://github.com/DiagoDavila14)
+### *Coming soon*
 [![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=angular&logoColor=white&labelColor=black)](https://github.com/DiagoDavila14)
