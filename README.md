@@ -20,10 +20,10 @@ I'm a student of Information Systems Development. I am learning more about Progr
 [![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=%2306B6D4&labelColor=black)](https://github.com/DiagoDavila14)
-[![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&labelColor=black)](https://github.com/DiagoDavila14)
 <br>
 [![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23512BD4&labelColor=black)](https://github.com/DiagoDavila14)
 [![Static Badge](https://img.shields.io/badge/Rust-%23181717?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)](https://github.com/DiagoDavila14)
+[![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&labelColor=black)](https://github.com/DiagoDavila14)
 
 ## **My Tools**
 [![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC&labelColor=black)](https://github.com/DiagoDavila14)
